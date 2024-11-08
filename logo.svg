@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="100" height="100" version="1.1" viewBox="0 0 26.458 26.458" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <g transform="translate(5.9605e-8 -.66146)">
+  <g transform="translate(0 .66146)">
+   <g fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3229">
+    <path d="m11.906 3.9687h2.6458l1.3229 5.2917h-5.2917z" style="paint-order:stroke markers fill"/>
+    <rect x="9.2604" y="7.9375" width="7.9375" height="3.9687" rx="2.6822e-7" ry="2.6822e-7" style="paint-order:stroke markers fill"/>
+    <rect x="7.9375" y="10.583" width="10.583" height="10.583" rx="1.3229" ry="1.3229" style="paint-order:stroke markers fill"/>
+   </g>
+   <ellipse cx="9.9219" cy="15.875" rx=".66146" ry="1.3229" style="paint-order:stroke markers fill"/>
+   <ellipse cx="16.536" cy="15.875" rx=".66146" ry="1.3229" style="paint-order:stroke markers fill"/>
+   <g fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".66146">
+    <path d="m10.583 19.844h7.9375" style="paint-order:stroke markers fill"/>
+    <path d="m7.9375 11.906h1.3229" style="paint-order:stroke markers fill"/>
+    <path d="m10.583 11.906h7.9375" style="paint-order:stroke markers fill"/>
+    <path d="m9.2604 19.844h-1.3229" style="paint-order:stroke markers fill"/>
+   </g>
+  </g>
+ </g>
+ <metadata>
+  <rdf:RDF>
+   <cc:License rdf:about="http://creativecommons.org/licenses/by/4.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+   </cc:License>
+   <cc:Work rdf:about="">
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+</svg>
